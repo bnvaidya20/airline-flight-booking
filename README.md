@@ -36,7 +36,7 @@ The repository is organized into the following folders, each corresponding to a 
 
 ## Tracking Progress
 
-A project "Airline Flight Booking System," an adaptable spreadsheet, task board, and roadmap, has been created using the Kanban format. It has been integrated with the issues and pull requests on GitHub to assist in planning and tracking the tasks effectively. You can view and track the progress of the project by visiting the [Airline Flight Booking System Project Board]([https://github.com/bnvaidya20/airline-flight-booking/projects/1](https://github.com/users/bnvaidya20/projects/6)).
+A project "Airline Flight Booking System," an adaptable spreadsheet, task board, and roadmap, has been created using the Kanban format. It has been integrated with the issues and pull requests on GitHub to assist in planning and tracking the tasks effectively. You can view and track the progress of the project by visiting the [Airline Flight Booking System Project Board]([https://github.com/users/bnvaidya20/projects/6]).
 
 ### Kanban Board Columns
 
