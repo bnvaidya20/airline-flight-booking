@@ -63,13 +63,11 @@ We welcome contributions from the community. To contribute, follow these steps:
 ### Fork the Repository
 
 **1. Create a Branch for Your Feature or Bug Fix**
-
 ```bash
 Copy code
 git checkout -b feature-name
 
 **2. Commit Your Changes**
-
 ```bash
 Copy code
 git commit -m "Add new feature"
