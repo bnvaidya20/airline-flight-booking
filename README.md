@@ -35,50 +35,51 @@ The repository is organized into the following folders, each corresponding to a 
    cd airline-flight-booking
 
 ## Tracking Progress
-A project "Airline Flight Booking System", an adaptable spreadsheet, task board, and road map, has been created using Kanban format. It has been integrated with the issues and pull requests on GitHub to assist in planning and tracking the tasks effectively. You can view and track the progress of the project by visiting the Airline Flight Booking System Project Board.
+
+A project "Airline Flight Booking System," an adaptable spreadsheet, task board, and roadmap, has been created using the Kanban format. It has been integrated with the issues and pull requests on GitHub to assist in planning and tracking the tasks effectively. You can view and track the progress of the project by visiting the [Airline Flight Booking System Project Board](https://github.com/bnvaidya20/airline-flight-booking/projects/1).
 
 ### Kanban Board Columns
+
 - **Backlog**: Ideas and tasks that are not yet started.
 - **Priority Board**:
--- **Backlog**: Tasks to be done.
--- **Ready**: Tasks ready to be started.
--- **In Progress**: Tasks currently being worked on.
--- **In Review**: Tasks awaiting review.
--- **Done**: Completed tasks.
+  - **Backlog**: Tasks to be done.
+  - **Ready**: Tasks ready to be started.
+  - **In Progress**: Tasks currently being worked on.
+  - **In Review**: Tasks awaiting review.
+  - **Done**: Completed tasks.
 - **Team Items**:
--- **Title**
--- **Status** (Backlog, Ready, In Progress, In Review, Done)
--- **Size** (XS, S, M, L, XL)
--- **Estimate**
--- **Priority** (P0, P1, P2)
--- **Start date**
--- **End date**
+  - Title
+  - Status (Backlog, Ready, In Progress, In Review, Done)
+  - Size (XS, S, M, L, XL)
+  - Estimate
+  - Priority (P0, P1, P2)
+  - Start date
+  - End date
 - **Roadmap**: High-level plan for project milestones.
 - **In Review**: Tasks that are being reviewed.
 - **My Items**: Tasks assigned to you.
 
 ## Contributing
+
 We welcome contributions from the community. To contribute, follow these steps:
 
-### Fork the Repository
+1. **Fork the Repository**
 
-**1. Create a Branch for Your Feature or Bug Fix**
+2. **Create a Branch for Your Feature or Bug Fix**
    ```bash
-   Copy code
    git checkout -b feature-name
 
-## Test
-**2. Commit Your Changes**
-```bash
-Copy code
-git commit -m "Add new feature"
+3. **Push Your Branch**
+   ```bash
+   git push origin feature-name
 
-**3. Push Your Branch**
+4. **Push Your Branch**
+   ```bash
+   git push origin feature-name
 
-```bash
-Copy code
-git push origin feature-name
-
+5. **Open a Pull Request**
+   ```bash
+   gh pr create --base main --head feature-name --title "Add new feature" --body "Description of the new feature added"
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
