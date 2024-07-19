@@ -15,10 +15,10 @@ The Airline Flight Booking System is a comprehensive application that allows use
 
 The repository is organized into the following folders, each corresponding to a major feature of the system:
 
-- `Flight Search/`: Contains files and scripts related to the flight search functionality.
-- `Flight Details/`: Contains files and scripts related to displaying flight details.
-- `Booking a Flight/`: Contains files and scripts related to booking flights.
-- `Managing Bookings/`: Contains files and scripts related to managing existing bookings.
+- `flight_search/`: Contains files and scripts related to the flight search functionality.
+- `flight_details/`: Contains files and scripts related to displaying flight details.
+- `booking_flight/`: Contains files and scripts related to booking flights.
+- `managing_bookings/`: Contains files and scripts related to managing existing bookings.
 
 ## Getting Started
 
